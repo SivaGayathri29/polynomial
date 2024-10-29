@@ -1,5 +1,5 @@
 # polynomial
-# Polynomial Constant Term Calculator
+
 
 This is an Express.js application that calculates the constant term of a polynomial based on given roots. The application uses Lagrange interpolation to compute the constant term \( c \).
 
